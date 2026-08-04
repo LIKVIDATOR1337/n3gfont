@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.63">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      © 1990-99 Apple Computer Inc. © 1981 Linotype AG © 1990-91 Type Solutions Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Helvetica
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Helvetica; 5.0d8e2; 2004-12-20
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Helvetica
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      5.0d8e2
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Helvetica
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Helvetica is a registered trademark of Linotype AG
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Ligatures
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Common Ligatures
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x1" unicode="True">
+      Standard
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x1" unicode="True">
+      Helvetica est une marque déposée de Linotype AG
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x2" unicode="True">
+      Standard
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x2" unicode="True">
+      Helvetica ist ein eingetragenes Warenzeichen der Linotype AG
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x3" unicode="True">
+      Testo normale
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x3" unicode="True">
+      Helvetica è un marchio registrato di Linotype AG
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x4" unicode="True">
+      Normaal
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x4" unicode="True">
+      Helvetica is een geregistreerd handelsmerk van Linotype AG
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x5" unicode="True">
+      Normal
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x5" unicode="True">
+      Helvetica är ett registrerat varumärke för Linotype AG
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x6" unicode="True">
+      Común
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x7" unicode="True">
+      Helvetica er et registreret varemærke tilhørende Linotype AG
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="2" langID="0x13" unicode="True">
+      標準體
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="3" langID="0x17" unicode="True">
+      일반
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="4" langID="0xc" unicode="True">
+      Copyright 1990-98 Apple Computer Inc. Copyright 1981 Linotype AG Copyright 1990-91 Type Solutions Inc.
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="4" langID="0xc" unicode="False">
+      &#226;&#234;&#199;&#211;&#234;
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="4" langID="0x1f" unicode="True">
+      Copyright 1990-98 Apple Computer Inc. Copyright 1981 Linotype AG Copyright 1990-91 Type Solutions Inc.
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="4" langID="0x1f" unicode="False">
+      &#229;&#202;&#230;&#160;&#211;&#199;&#207;&#231;
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="5" langID="0xa" unicode="False">
+      &#248;&#226;&#233;&#236;
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      常规
+    </namerecord>
+  </name>
+
+</ttFont>
