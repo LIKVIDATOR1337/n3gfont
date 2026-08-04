@@ -5,7 +5,7 @@ A tool to patch fonts in firmware IPSW files.
 ```bash
 py -m venv venv
 
-venv\\Scripts\\activate
+venv\Scripts\activate
 
 pip install afdko pyfatfs
 ```
