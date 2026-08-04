@@ -3,11 +3,13 @@ A tool to patch fonts in firmware IPSW files.
 
 ## Installation
 ```bash
-py -m venv venv
+py -m venv n3gfont
 
 venv\Scripts\activate
 
 pip install afdko pyfatfs
+
+Download as ZIP, unpack all to n3gfont folder.
 ```
 
 ## Usage
