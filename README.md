@@ -14,7 +14,7 @@ Download as ZIP, unpack all to n3gfont folder.
 
 ## Usage
 ```bash
-python3 n3gfont.py <firmware.ipsw> <bold.ttf> \[regular.ttf] \[output.ipsw]
+python3 n3gfont.py <firmware.ipsw> <bold.ttf> [regular.ttf] [output.ipsw]
 ```
 
 credits:
